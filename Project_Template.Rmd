@@ -1,22 +1,12 @@
+---
+name: "Shreya Masina"
+date: "10-23-2024"
+title: "DASEH Code-a-thon Day 1"
+---
+
+
+
 # Code-a-thon Project Template
-
-This project is intended to help you apply your skills in R in a way that would be conducive for collaborating or creating reproducible analyses.
-
-
-## Data Used
-
-Identify a dataset to analyze. Remember that if you share the data you must **not violate any privacy restrictions**
-
-If you don't have your own data, options for places to find data are listed on https://daseh.org.
-
-You might start by setting up an R Project, importing your data, previewing the data, etc. 
-
-```{r}
-
-```
-
-**describe** what your data looks like and **where** you got it. Identify what the variables and samples are, or point to a data dictionary. Describe how the data was originally created. 
-
 
 # Data Cleaning/Wrangling
 
